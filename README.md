@@ -1,4 +1,4 @@
-# Foundational Basic Projects
+# Foundational  Projects
 
 A collection of beginner-friendly Python CLI projects built to strengthen core programming fundamentals.
 
